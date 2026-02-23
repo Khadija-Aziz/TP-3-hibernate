@@ -25,7 +25,7 @@ public class Equipement {
     @ManyToMany(mappedBy = "equipements")
     private Set<Salle> salles = new HashSet<>();
 
-    // Constructeur par défaut requis par JPA
+    // Constructeur par défaut 
     public Equipement() {
     }
 
@@ -38,7 +38,7 @@ public class Equipement {
         this.description = description;
     }
 
-    // Getters et Setters
+
     public Long getId() {
         return id;
     }
