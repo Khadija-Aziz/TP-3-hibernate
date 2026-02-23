@@ -13,7 +13,7 @@ import java.util.List;
 
 public class App {
     public static void main(String[] args) {
-        // Création de l'EntityManagerFactory
+        // Créer l'EntityManagerFactory
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("gestion-reservations");
 
         try {
@@ -30,7 +30,7 @@ public class App {
             testRelationManyToMany(emf);
 
         } finally {
-            // Fermeture de l'EntityManagerFactory
+            // Fermer l'EntityManagerFactory
             emf.close();
         }
     }
@@ -40,7 +40,7 @@ public class App {
         try {
             em.getTransaction().begin();
 
-            // Création des entités
+            // Créer les entités
             System.out.println("Création des entités...");
 
             // Création d'un utilisateur
