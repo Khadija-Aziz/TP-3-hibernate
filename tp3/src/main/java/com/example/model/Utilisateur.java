@@ -30,7 +30,7 @@ public class Utilisateur {
     @OneToMany(mappedBy = "utilisateur", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Reservation> reservations = new ArrayList<>();
 
-    // Constructeur par défaut requis par JPA
+    // Constructeur par défaut 
     public Utilisateur() {
     }
 
