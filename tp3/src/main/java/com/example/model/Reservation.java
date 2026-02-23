@@ -34,7 +34,7 @@ public class Reservation {
     @JoinColumn(name = "salle_id", nullable = false)
     private Salle salle;
 
-    // Constructeur par défaut requis par JPA
+    // Constructeur par défaut 
     public Reservation() {
     }
 
