@@ -1,4 +1,4 @@
-Exécution du projet : 
+<img width="1819" height="886" alt="Capture d’écran 2026-02-23 120333" src="https://github.com/user-attachments/assets/8aa6987d-c669-4fa4-9953-923209afd9c3" /><img width="1819" height="886" alt="Capture d’écran 2026-02-23 120333" src="https://github.com/user-attachments/assets/8aa6987d-c669-4fa4-9953-923209afd9c3" />Exécution du projet : 
 
 1.Structure du projet
 
@@ -16,6 +16,10 @@ Exécution du projet :
 <img width="1820" height="885" alt="Capture d’écran 2026-02-23 115249" src="https://github.com/user-attachments/assets/2c843313-dfe5-43a7-ba2d-1b1f83bb068a" />
 <img width="1821" height="874" alt="Capture d’écran 2026-02-23 115334" src="https://github.com/user-attachments/assets/8ff4d387-7078-47a9-b501-b7a2c4d843ea" />
 <img width="1820" height="870" alt="Capture d’écran 2026-02-23 115718" src="https://github.com/user-attachments/assets/af723cf9-456c-46ff-8054-4ba9d2821414" />
+
+
+
+
 
 
 
